@@ -51,7 +51,7 @@
 · Utilized "COUNTIFS" function & "Percentage Formula"
 
 
-## Conclusion :-
+## Conclusion :
 
 · The analysis of the hiring process using Excel has provided valuable insights into the efficiency and effectiveness of our recruitment efforts. Key metrics such as time-to-fill, cost-per-hire, and source effectiveness were thoroughly examined, revealing both strengths and areas for improvement in our current practices.
 
